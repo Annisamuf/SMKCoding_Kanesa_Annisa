@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.coba.R
 
-class ScreenSlidePageFragment : Fragment() {
+class homefragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater,
